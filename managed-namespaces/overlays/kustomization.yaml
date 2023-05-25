@@ -1,3 +1,4 @@
 bases:
-- ../../base
+- ./project-memes-dev
+- ./project-memes-prod
 - role.yaml
